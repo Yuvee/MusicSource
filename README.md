@@ -1,4 +1,6 @@
 # 音源整合
+https://raw.githubusercontent.com/Yuvee/MusicSource/main/music-source.js
+
 仅为导入方便
 
 ## 六音
