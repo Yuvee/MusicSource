@@ -6,3 +6,6 @@
 
 ## Huibq_lxmusic源
 地址：https://github.com/Huibq/keep-alive/blob/master/render_api.js
+
+## 洛雪音源
+百度网盘：https://pan.baidu.com/s/1zG78wb-WawJrHGyFbiM_Iw?pwd=1024#list/path=%2F
