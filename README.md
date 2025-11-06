@@ -1,4 +1,4 @@
-# 音源整合
+# 音源整合（方便导入）
 https://raw.githubusercontent.com/Yuvee/MusicSource/main/music-source.js
 
 ## 六音
@@ -7,7 +7,6 @@ https://raw.githubusercontent.com/Yuvee/MusicSource/main/sixyin.js
 https://raw.githubusercontent.com/Yuvee/MusicSource/main/Huibq_lxmusic.js
 ## 洛雪科技公众号
 https://raw.githubusercontent.com/Yuvee/MusicSource/main/[独家音源] v4.0.js
-仅为导入方便
 
 
 ## 六音
