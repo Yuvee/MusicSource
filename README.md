@@ -10,6 +10,8 @@ https://raw.githubusercontent.com/Yuvee/MusicSource/main/Huibq_lxmusic.js
 https://raw.githubusercontent.com/Yuvee/MusicSource/main/[独家音源] v4.0.js
 ## 念心
 https://raw.githubusercontent.com/Yuvee/MusicSource/main/念心音源v1.0.2.js
+## 星海
+https://raw.githubusercontent.com/Yuvee/MusicSource/main/xinghai-music-sourcev2.3.8.js
 
 # 来源地址
 ## 六音
@@ -30,6 +32,12 @@ UC：https://drive.uc.cn/s/88f04b99e85e4?public=1#/list/share
 
 ## 念心
 https://pan.quark.cn/s/b3c2489a897d
+
+## 星海
+https://zrcdy.dpdns.org/
+
+https://github.com/cdyUuu/lx-music-xinghai-source
+
 
 # 其他汇总
 https://github.com/guoyue2010/lxmusic-
