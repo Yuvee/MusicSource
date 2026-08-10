@@ -12,6 +12,8 @@ https://raw.githubusercontent.com/Yuvee/MusicSource/main/[独家音源] v4.0.js
 https://raw.githubusercontent.com/Yuvee/MusicSource/main/念心音源v1.0.2.js
 ## 星海
 https://raw.githubusercontent.com/Yuvee/MusicSource/main/xinghai-music-sourcev2.3.8.js
+## 长青
+https://raw.githubusercontent.com/Yuvee/MusicSource/main/【推荐】长青SVIP音源v1.2.0（全平台支持无损）.js
 
 # 来源地址
 ## 六音
@@ -37,6 +39,12 @@ https://pan.quark.cn/s/b3c2489a897d
 https://zrcdy.dpdns.org/
 
 https://github.com/cdyUuu/lx-music-xinghai-source
+
+## 长青
+夸克：https://pan.quark.cn/s/4a3b7ca0baed
+
+UC：https://drive.uc.cn/s/0013d6d876444
+
 
 
 # 其他汇总
