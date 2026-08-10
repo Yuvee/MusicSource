@@ -2,19 +2,6 @@
 https://raw.githubusercontent.com/Yuvee/MusicSource/main/music-source.js
 
 
-## 六音
-https://raw.githubusercontent.com/Yuvee/MusicSource/main/sixyin.js
-## Huibq_lxmusic源
-https://raw.githubusercontent.com/Yuvee/MusicSource/main/Huibq_lxmusic.js
-## 洛雪科技公众号
-https://raw.githubusercontent.com/Yuvee/MusicSource/main/[独家音源] v4.0.js
-## 念心
-https://raw.githubusercontent.com/Yuvee/MusicSource/main/念心音源v1.0.2.js
-## 星海
-https://raw.githubusercontent.com/Yuvee/MusicSource/main/xinghai-music-sourcev2.3.8.js
-## 长青
-https://raw.githubusercontent.com/Yuvee/MusicSource/main/【推荐】长青SVIP音源v1.2.0（全平台支持无损）.js
-
 # 来源地址
 ## 六音
 地址：https://soso.lanzouj.com/b00p9c94f#8mno
@@ -30,7 +17,6 @@ https://raw.githubusercontent.com/Yuvee/MusicSource/main/【推荐】长青SVIP�
 夸克：https://pan.quark.cn/s/626871a8d970?pwd=d5EW#/list/share
 
 UC：https://drive.uc.cn/s/88f04b99e85e4?public=1#/list/share
-
 
 ## 念心
 https://pan.quark.cn/s/b3c2489a897d
