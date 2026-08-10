@@ -20,9 +20,13 @@ https://raw.githubusercontent.com/Yuvee/MusicSource/main/念心音源v1.0.2.js
 
 ## 洛雪音源
 百度：https://pan.baidu.com/s/1zG78wb-WawJrHGyFbiM_Iw?pwd=1024#list/path=%2F
+
 迅雷：https://pan.xunlei.com/s/VOVITo8I8QoA6mrEPaU74ls2A1?pwd=b6jr
+
 夸克：https://pan.quark.cn/s/626871a8d970?pwd=d5EW#/list/share
+
 UC：https://drive.uc.cn/s/88f04b99e85e4?public=1#/list/share
+
 
 ## 念心
 https://pan.quark.cn/s/b3c2489a897d
