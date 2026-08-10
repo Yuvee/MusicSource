@@ -27,3 +27,6 @@ UC：https://drive.uc.cn/s/88f04b99e85e4?public=1#/list/share
 ## 念心
 https://pan.quark.cn/s/b3c2489a897d
 
+# 其他汇总
+https://github.com/guoyue2010/lxmusic-
+
